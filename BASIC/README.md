@@ -1,6 +1,5 @@
 # Basic
 
-1.  **[Led Class](led_class/)**
 2.  **[Essential](essential/)**
 3.  **[Class](class/)**
 4.  **[More about Class](class_more/)**

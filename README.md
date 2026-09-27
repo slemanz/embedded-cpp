@@ -1,3 +1,3 @@
-# Embedded CPP
+# Simple Embedded CPP
 
-1. **[Basic](BASIC/)**
+**[1. Led Class](01-led_class/)**
