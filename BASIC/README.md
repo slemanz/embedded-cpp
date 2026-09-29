@@ -1,6 +1,5 @@
 # Basic
 
-5.  **[Template](template/)**
 6.  **[GPIO](gpio/)**
 7.  **[UART](uart/)**
 8.  **[SYSTICK](systick/)**
