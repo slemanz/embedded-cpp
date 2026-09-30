@@ -8,4 +8,6 @@
 
 **4. [More about Class](04-class_more/)**
 
+**6. [GPIO](05-gpio/)**
+
 -  **[Template](template/)**
