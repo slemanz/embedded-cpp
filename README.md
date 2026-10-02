@@ -9,5 +9,6 @@
 7. **[Systick](07-systick/)**
 8. **[Adc](08-adc/)**
 9. **[Spi](09-spi/)**
+10. **[I2C](10-i2c/)**
 
 -  **[Template](template/)**
