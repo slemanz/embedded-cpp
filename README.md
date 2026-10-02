@@ -8,5 +8,6 @@
 6. **[Uart](06-uart/)**
 7. **[Systick](07-systick/)**
 8. **[Adc](08-adc/)**
+9. **[Spi](09-spi/)**
 
 -  **[Template](template/)**
